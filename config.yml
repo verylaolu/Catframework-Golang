@@ -1,0 +1,10 @@
+mysql:
+  charset: utf8
+  db: casbin
+  host: 10.10.112.195
+  password: 111222
+  user: root
+redis:
+  host: 10.10.112.195
+  password: 
+  port: 6379
